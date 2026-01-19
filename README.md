@@ -7,6 +7,9 @@ Nice to see you here.
 - Uni: AGH University of Krakow
 - Consulting Engineer at Cisco - Software Automation and Orchestration
 
+Working on 👨‍🌾:
+- Engineering Thesis - AI powered network controller
+
 Interests 🖥️:
 - Right now I'm into devops stuff
 
